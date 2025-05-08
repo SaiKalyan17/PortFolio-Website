@@ -1,0 +1,12 @@
+@import 'vars.css';
+
+.App{
+    /*As the App.js contains only Navbar so it's blue in color */
+    background-color: var(--color-bg);
+    height: 100%;
+    width: 100%;
+    
+}
+html{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Insurance Prediction",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Job Portal",
+      "imageSrc": "projects/project.png",
+      "description": "A platform that connects job seekers with recruiters, offering job opportunities and a convenient way for recruiters to evaluate candidates' skills and qualifications",
+      "skills": ["SpringBoot", "Html", "CSS", "Mysql"],
+      "demo": "http://localhost:8080",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Job Portal",
+      "imageSrc": "projects/project.png",
+      "description": "A platform that connects job seekers with recruiters, offering job opportunities and a convenient way for recruiters to evaluate candidates' skills and qualifications",
+      "skills": ["SpringBoot", "Html", "CSS", "Mysql"],
+      "demo": "http://localhost:8080",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a personal portfolio website using ReactJS to showcase projects, skills, experience in an interactive and responsive manner.",
+      "skills": ["React", "Html", "Css"],
+      "demo": "http://localhost:5173",
+      "source": "https://www.github.com"
+    }
+  ]

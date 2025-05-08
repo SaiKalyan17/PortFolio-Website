@@ -1,0 +1,16 @@
+/*
+This file is create to denote some properties as default such as some colors,fonts,text,size
+*/
+
+:root{
+    /*Let's define colors*/
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+    
+    /*Let's define Fonts*/
+    --font-roboto: "Roboto"
+
+}

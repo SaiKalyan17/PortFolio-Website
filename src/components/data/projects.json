@@ -1,34 +1,34 @@
 [
-    {
-      "title": "Insurance Prediction",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Job Portal",
-      "imageSrc": "projects/project.png",
-      "description": "A platform that connects job seekers with recruiters, offering job opportunities and a convenient way for recruiters to evaluate candidates' skills and qualifications",
-      "skills": ["SpringBoot", "Html", "CSS", "Mysql"],
-      "demo": "http://localhost:8080",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Job Portal",
-      "imageSrc": "projects/project.png",
-      "description": "A platform that connects job seekers with recruiters, offering job opportunities and a convenient way for recruiters to evaluate candidates' skills and qualifications",
-      "skills": ["SpringBoot", "Html", "CSS", "Mysql"],
-      "demo": "http://localhost:8080",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Portfolio Website",
-      "imageSrc": "projects/project.png",
-      "description": "Developed a personal portfolio website using ReactJS to showcase projects, skills, experience in an interactive and responsive manner.",
-      "skills": ["React", "Html", "Css"],
-      "demo": "http://localhost:5173",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Insurance Prediction System",
+    "imageSrc": "projects/ProjectImage.png",
+    "description": "Built an ML-powered system that predicts insurance amounts using ensemble learning techniques. Implemented backend logic and integrated it with a user-friendly frontend.",
+    "skills": ["Python", "Machine Learning", "Flask", "Pandas", "Scikit-learn"],
+    "demo": "thub.com/SaiKalyan17/Insurance_Prediction_Predicitve_Models/blob/f19bdfba034dfdad8ea5869ba9021b6f2e5709bf/ML_RESEARCH_PAPER_FINAL.docx",
+    "source": "https://github.com/yourusername/insurance-prediction"
+  },
+  {
+    "title": "Face Attendance System",
+    "imageSrc": "projects/ProjectImage.png",
+    "description": "A computer vision project that marks student attendance using face recognition. Integrated with MongoDB Atlas for data storage and AWS S3 for image storage with real-time recognition.",
+    "skills": ["Python", "OpenCV", "Face Recognition", "MongoDB Atlas", "AWS S3"],
+    "demo": "https://www.example.com/face-attendance",
+    "source": "https://github.com/yourusername/face-attendance-system"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/ProjectImage.png",
+    "description": "Developed a personal portfolio website using React (Vite) to showcase projects, skills, and experience in an interactive and responsive manner.",
+    "skills": ["React", "Vite", "HTML", "CSS"],
+    "demo": "https://kalyan-portfolio-pi.vercel.app/",
+    "source": "https://github.com/yourusername/portfolio-website"
+  },
+  {
+    "title": "Job Portal",
+    "imageSrc": "projects/ProjectImage.png",
+    "description": "A platform that connects job seekers with recruiters, offering job opportunities and tools for recruiters to evaluate candidates' skills and qualifications.",
+    "skills": ["Spring Boot", "HTML", "CSS", "MySQL"],
+    "demo": "https://www.example.com/job-portal",
+    "source": "https://github.com/yourusername/job-portal"
+  }
+]

@@ -1,30 +1,19 @@
 
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "AI – ML Intern ",
+      "organisation": "Google (AICTE)",
+      "startDate": "July, 2024",
+      "endDate": "Sept 2024",
+      "experiences": ["Completed Google-AICTE AI/ML internship", "Built predictive models using Python libraries (NumPy, Pandas, Sklearn)","Explored key ML techniques like regression, classification"],
+      "imageSrc": "history/GoogleInternshipCertificate.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "MERN STACK DEVELOPER",
+      "organisation": "FreeLancer",
+      "startDate": "April, 2025",
+      "endDate": "June, 2022",
+      "experiences": ["Developed and deployed a full-stack website for a religious organization ","Used React.js, Node.js, Express, and MongoDB","Collaborated directly with stakeholders to gather requirements and implement key features."],
       "imageSrc": "history/microsoft.png"
     },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    }
   ]

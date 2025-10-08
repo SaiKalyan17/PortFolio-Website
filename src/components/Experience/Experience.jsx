@@ -13,7 +13,7 @@ const Experience = ()=>{
             return( 
                 <div key = {id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                {/* <img src = {getImageUrl(skill.imageSrc)} alt={skill.title}/> */}
+                /* {/* <img src = {getImageUrl(skill.imageSrc)} alt={skill.title}/> */} */
                 </div>
                 <p>{skill.title}</p>
                 </div>
@@ -24,7 +24,7 @@ const Experience = ()=>{
             {history.map((historyItems,id)=>{
                 return (
                     <li key = {id} className={styles.historyItems}>
-                <img src = {getImageUrl(historyItems.imageSrc)} alt="`${history.organisation} logo`}" />
+                {/* <img src = {getImageUrl(historyItems.imageSrc)} alt="`${history.organisation} logo`}" /> */}
                 <div className={styles.historyItemsDetails}>
                     <h3>{`${historyItems.role},${historyItems.organisation}`}</h3>
                     <p>{`${historyItems.startDate},${historyItems.endDate}`}</p>

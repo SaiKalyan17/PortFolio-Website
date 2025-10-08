@@ -1,19 +1,26 @@
-
 [
-    {
-      "role": "AI – ML Intern ",
-      "organisation": "Google (AICTE)",
-      "startDate": "July, 2024",
-      "endDate": "Sept 2024",
-      "experiences": ["Completed Google-AICTE AI/ML internship", "Built predictive models using Python libraries (NumPy, Pandas, Sklearn)","Explored key ML techniques like regression, classification"],
-      "imageSrc": "GoogleCertificate.png"
-    },
-    {
-      "role": "MERN STACK DEVELOPER",
-      "organisation": "FreeLancer",
-      "startDate": "April, 2025",
-      "endDate": "June, 2022",
-      "experiences": ["Developed and deployed a full-stack website for a religious organization ","Used React.js, Node.js, Express, and MongoDB","Collaborated directly with stakeholders to gather requirements and implement key features."],
-      "imageSrc": "Imagelogo.png"
-    },
-  ]
+  {
+    "role": "AI – ML Intern",
+    "organisation": "Google (AICTE)",
+    "startDate": "July, 2024",
+    "endDate": "Sept 2024",
+    "experiences": [
+      "Completed Google-AICTE AI/ML internship",
+      "Built predictive models using Python libraries (NumPy, Pandas, Sklearn)",
+      "Explored key ML techniques like regression, classification"
+    ],
+    "imageSrc": "GoogleCertificate.png"
+  },
+  {
+    "role": "MERN STACK DEVELOPER",
+    "organisation": "FreeLancer",
+    "startDate": "April, 2025",
+    "endDate": "June, 2022",
+    "experiences": [
+      "Developed and deployed a full-stack website for a religious organization",
+      "Used React.js, Node.js, Express, and MongoDB",
+      "Collaborated directly with stakeholders to gather requirements and implement key features."
+    ],
+    "imageSrc": "Imagelogo.png"
+  }
+]
